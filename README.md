@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/kazem-abdi-dehnoei-3373b1a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kazem-abdi-dehnoei-3373b1a8" height="30" width="40" /></a>
 </p> -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kazem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://linkedin.com/in/kazem-abdi-dehnoei-3373b1a8) [![Mail Badge](https://img.shields.io/badge/-@kal_stuttgart-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/kal_stuttgart) [![Mail Badge](https://img.shields.io/badge/-kabdi9312-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kabdi9312@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Kazem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://linkedin.com/in/kazem-abdi-dehnoei-3373b1a8) [![Mail Badge](https://img.shields.io/badge/-@kal__stuttgart-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/kal_stuttgart) [![Mail Badge](https://img.shields.io/badge/-kabdi9312-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kabdi9312@gmail.com)
 
 #### Top Technologies
 
