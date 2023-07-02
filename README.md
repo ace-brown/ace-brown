@@ -21,7 +21,7 @@
 
 #### Top Technologies
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Solidity Badge](https://img.shields.io/badge/-Solidity-F0DB4F?style=for-the-badge&labelColor=black&logo=Solidity&logoColor=74726a)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Solidity Badge](https://img.shields.io/badge/-Solidity-74726a?style=for-the-badge&labelColor=black&logo=Solidity&logoColor=74726a)](#)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ace-brown&show_icons=true&locale=en&layout=compact" alt="ace-brown" /></p>
 
