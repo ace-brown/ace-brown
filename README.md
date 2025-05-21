@@ -6,10 +6,6 @@
 
 - 👯 I’m looking to collaborate on **Full stack apps with React, NextJS and NodeJs**
 
-- 👨‍💻 All of my projects are available at [my personal portfolio website](https://my-portfolio-website-nextjs.vercel.app/)
-
-- 💬 Ask me about **react, nextJS, CSS and nodeJS**
-
 <h3 align="left">Connect with me:</h3>
 <!-- <p align="left">
 <a href="https://linkedin.com/in/kazem-abdi-dehnoei-3373b1a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kazem-abdi-dehnoei-3373b1a8" height="30" width="40" /></a>
