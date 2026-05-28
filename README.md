@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Kazem</h1>
-<h3 align="center">Frontend Engineer transitioning into Full-Stack & AI-Powered SaaS Development</h3>
+<h3 align="center">Full-Stack Developer | React · NestJS · Python · AI/LLM Applications</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a software engineer based in Germany with professional experience building scalable and responsive web applications.
+I'm a full-stack software engineer based in Germany, building scalable web applications and AI-integrated SaaS products.
 
-My background is primarily in frontend development with **React**, **Next.js**, **TypeScript**, and modern UI ecosystems, while actively expanding into full-stack and cloud-native development using **Node.js**, **NestJS**, **Docker**, **Kubernetes**, and microservices architectures.
+I work across the full stack — from React and Next.js frontends to NestJS backends, Python AI services, and cloud-native infrastructure with Docker and Kubernetes.
 
 I enjoy building products that combine clean user experiences, scalable backend systems, and practical AI integration.
 
 Currently focused on:
 - Full-stack SaaS architecture
-- AI-assisted workflows
+- AI-assisted workflows (LLMs, RAG, automation)
 - Mobile-first applications & PWAs
 - Cloud-native systems
 - Microservices & automation
@@ -26,21 +26,24 @@ Currently focused on:
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
+![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
-![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000?style=for-the-badge)
 ![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)
+![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000?style=for-the-badge)
 
 #### Backend & APIs
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-000?style=for-the-badge&logo=nestjs)
-![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
+![Prisma](https://img.shields.io/badge/-Prisma-000?style=for-the-badge&logo=prisma)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-000?style=for-the-badge&logo=redis)
 
 #### AI & Automation
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?style=for-the-badge&logo=fastapi)
 ![LLM Apps](https://img.shields.io/badge/-LLM%20Applications-000?style=for-the-badge)
+![Claude CLI](https://img.shields.io/badge/-Claude%20CLI-000?style=for-the-badge)
 ![OCR](https://img.shields.io/badge/-OCR-000?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/-NLP-000?style=for-the-badge)
 
@@ -70,8 +73,8 @@ Currently focused on:
 - Built and maintained React dashboards within microservices architectures
 - Integrated frontend applications with Java Spring Boot REST APIs
 - Worked with Docker and Kubernetes for deployment and orchestration
-- Developed applications using React, Next.js, TypeScript, and Node.js
-- Experience with CI/CD pipelines and scalable frontend architecture
+- Developed full-stack applications using React, Next.js, NestJS, and Python
+- Experience with CI/CD pipelines and scalable architecture
 - Background in Computational Linguistics and NLP
 
 ---
@@ -80,7 +83,7 @@ Currently focused on:
 
 - Advanced backend architecture
 - Scalable NestJS systems
-- AI integrations & automation workflows
+- AI integrations & LLM-powered automation
 - SaaS product engineering
 - System design & cloud infrastructure
 
