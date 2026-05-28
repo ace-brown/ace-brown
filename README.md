@@ -31,6 +31,14 @@ Currently focused on:
 ![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)
 ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000?style=for-the-badge)
 
+#### Mobile
+![React Native](https://img.shields.io/badge/-React%20Native-000?style=for-the-badge&logo=react)
+![Expo](https://img.shields.io/badge/-Expo-000?style=for-the-badge&logo=expo)
+![Expo Router](https://img.shields.io/badge/-Expo%20Router-000?style=for-the-badge&logo=expo)
+![NativeWind](https://img.shields.io/badge/-NativeWind-000?style=for-the-badge)
+![Push Notifications](https://img.shields.io/badge/-Push%20Notifications-000?style=for-the-badge)
+![PWA](https://img.shields.io/badge/-PWA-000?style=for-the-badge&logo=pwa)
+
 #### Backend & APIs
 ![NestJS](https://img.shields.io/badge/-NestJS-000?style=for-the-badge&logo=nestjs)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
@@ -62,6 +70,7 @@ Currently focused on:
 - AI-powered SaaS products
 - Mobile-first business applications
 - Progressive Web Apps (PWA)
+- Cross-platform mobile apps (iOS & Android)
 - Workflow automation tools
 - Microservices architectures
 - Full-stack platforms with real-world business impact
@@ -84,6 +93,7 @@ Currently focused on:
 - Advanced backend architecture
 - Scalable NestJS systems
 - AI integrations & LLM-powered automation
+- React Native & cross-platform mobile development
 - SaaS product engineering
 - System design & cloud infrastructure
 
