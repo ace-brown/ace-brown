@@ -14,7 +14,6 @@ I enjoy building products that combine clean user experiences, scalable backend 
 Currently focused on:
 - Full-stack SaaS architecture
 - AI-assisted workflows (LLMs, RAG, automation)
-- Mobile-first applications & PWAs
 - Cloud-native systems
 - Microservices & automation
 
@@ -30,14 +29,6 @@ Currently focused on:
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
 ![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)
 ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000?style=for-the-badge)
-
-#### Mobile
-![React Native](https://img.shields.io/badge/-React%20Native-000?style=for-the-badge&logo=react)
-![Expo](https://img.shields.io/badge/-Expo-000?style=for-the-badge&logo=expo)
-![Expo Router](https://img.shields.io/badge/-Expo%20Router-000?style=for-the-badge&logo=expo)
-![NativeWind](https://img.shields.io/badge/-NativeWind-000?style=for-the-badge)
-![Push Notifications](https://img.shields.io/badge/-Push%20Notifications-000?style=for-the-badge)
-![PWA](https://img.shields.io/badge/-PWA-000?style=for-the-badge&logo=pwa)
 
 #### Backend & APIs
 ![NestJS](https://img.shields.io/badge/-NestJS-000?style=for-the-badge&logo=nestjs)
@@ -68,9 +59,6 @@ Currently focused on:
 ### 🏗️ Interested In Building
 
 - AI-powered SaaS products
-- Mobile-first business applications
-- Progressive Web Apps (PWA)
-- Cross-platform mobile apps (iOS & Android)
 - Workflow automation tools
 - Microservices architectures
 - Full-stack platforms with real-world business impact
@@ -80,7 +68,7 @@ Currently focused on:
 ### 💼 Experience Highlights
 
 - Built and maintained React dashboards within microservices architectures
-- Integrated frontend applications with Java Spring Boot REST APIs
+- Integrated frontend applications with Fast API REST APIs
 - Worked with Docker and Kubernetes for deployment and orchestration
 - Developed full-stack applications using React, Next.js, NestJS, and Python
 - Experience with CI/CD pipelines and scalable architecture
@@ -93,7 +81,6 @@ Currently focused on:
 - Advanced backend architecture
 - Scalable NestJS systems
 - AI integrations & LLM-powered automation
-- React Native & cross-platform mobile development
 - SaaS product engineering
 - System design & cloud infrastructure
 
